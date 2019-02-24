@@ -1,7 +1,7 @@
 body{
     font-family:Helvetica;
     overflow:scroll;
-    background-color:hsl(0, 0, 33%);
+    background-color:hsl(0, 0, 50%);
     color: hsl(0, 0, 100%);
   }
   
@@ -27,6 +27,6 @@ body{
   }
   
   .external-link{
-    color:rgb(50, 41, 175);
+    color:rgb(194, 39, 155);
   }
   
