@@ -1,10 +1,13 @@
 body{
     font-family:Helvetica;
     overflow:scroll;
+    background-color: #000;
+    color: #fff;
   }
   
   img{
-    height:200px;
+    height:400px;
+    width: 400px;
   }
   
   .description{
@@ -20,7 +23,7 @@ body{
   }
   
   p.time{
-    color:gray;
+    color:rgb(170, 166, 166);
   }
   
   .external-link{
